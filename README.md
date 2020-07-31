@@ -1,2 +1,2 @@
 # weatherapp
-A simple weather app which displays the current weather of a location chosen by the user
+A simple weather app which displays the weather of the user's current location or a location chosen by the user.
